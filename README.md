@@ -1,4 +1,5 @@
 # Cricket Data Analysis Project
+Read at [Medium](https://medium.com/@sonalgan2000/cricket-unleashed-decoding-the-game-with-data-science-558f26dfadc0).
 
 ## Overview
 
